@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kittinan<br>I'm Fullstack Developer from Thailand!</h1>
+<h1 align="center">Hi 👋, I'm Kittinan<br>I'm Junior Fullstack Developer from Thailand!</h1>
 
 ###
 
